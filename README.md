@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hiruthick371/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hiruthick371/Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/hiruthick371/Problem-Solving/tree/master/0692-top-k-frequent-words) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hiruthick371/Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hiruthick371/Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
