@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hiruthick371/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/hiruthick371/Problem-Solving/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hiruthick371/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0692-top-k-frequent-words](https://github.com/hiruthick371/Problem-Solving/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
@@ -57,4 +59,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hiruthick371/Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hiruthick371/Problem-Solving/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
