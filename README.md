@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hiruthick371/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hiruthick371/Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/hiruthick371/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,24 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hiruthick371/Problem-Solving/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/hiruthick371/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/hiruthick371/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/hiruthick371/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/hiruthick371/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/hiruthick371/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
