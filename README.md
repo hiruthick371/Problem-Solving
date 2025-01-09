@@ -14,10 +14,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/hiruthick371/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/hiruthick371/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
@@ -31,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String Matching
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/hiruthick371/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
