@@ -34,29 +34,16 @@ class Geeks {
 // User function Template for Java//User function Template for Java
 class Solution {
     public ArrayList<Integer> subsetSums(int[] arr) {
-        // code here
-        int sum = 0;
-        ArrayList<ArrayList<Integer>>list = new ArrayList<>();
-        subset(list,new ArrayList<Integer>(),arr,0);
-      
-        ArrayList<Integer>ans = new ArrayList<>();
-        for(int i=0;i<list.size();++i){
-            sum= 0;
-            for(int j=0;j<list.get(i).size();++j){
-                sum+=list.get(i).get(j);
-            }
-            ans.add(sum);
-        }
-        return ans;
+        ArrayList<Integer>list = new ArrayList<>();
+        subset(list,arr,0,0);
+        return list;
     }
-    private void subset(ArrayList<ArrayList<Integer>>list,List<Integer>li,int[]arr,int index){
+    private void subset(ArrayList<Integer>list,int[]arr,int sum,int index){
         if(index>=arr.length){
-            list.add(new ArrayList<>(li));
+            list.add(sum);
             return;
         }
-        li.add(arr[index]);
-        subset(list,li,arr,index+1);
-        li.remove(li.size()-1);
-        subset(list,li,arr,index+1);
+        subset(list,arr,sum+arr[index],index+1);
+        subset(list,arr,sum,index+1);
     }
 }
