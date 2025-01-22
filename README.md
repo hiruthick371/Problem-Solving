@@ -14,9 +14,19 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hiruthick371/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/hiruthick371/Problem-Solving/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hiruthick371/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/hiruthick371/Problem-Solving/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hiruthick371/Problem-Solving/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hiruthick371/Problem-Solving/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
