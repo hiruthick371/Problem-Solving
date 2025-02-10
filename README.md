@@ -19,4 +19,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/hiruthick371/Problem-Solving/tree/master/0198-house-robber) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
