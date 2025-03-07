@@ -42,4 +42,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
+## Math
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/hiruthick371/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/hiruthick371/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
