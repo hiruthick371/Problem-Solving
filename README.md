@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0198-house-robber](https://github.com/hiruthick371/Problem-Solving/tree/master/0198-house-robber) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hiruthick371/Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
+| [3639-zero-array-transformation-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hiruthick371/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
