@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0198-house-robber](https://github.com/hiruthick371/Problem-Solving/tree/master/0198-house-robber) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hiruthick371/Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [3639-zero-array-transformation-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hiruthick371/Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +62,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
