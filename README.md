@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [3639-zero-array-transformation-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
+| [3778-transform-array-by-parity](https://github.com/hiruthick371/Problem-Solving/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +72,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [3778-transform-array-by-parity](https://github.com/hiruthick371/Problem-Solving/tree/master/3778-transform-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/hiruthick371/Problem-Solving/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
