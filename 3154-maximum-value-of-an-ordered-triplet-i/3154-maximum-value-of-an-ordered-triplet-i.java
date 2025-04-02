@@ -1,16 +1,13 @@
 class Solution {
     public long maximumTripletValue(int[] nums) {
-        long maxValue = 0;
-        long currentValue = 0;
-        for(int i = 0; i<nums.length; ++i) {
-            for(int j = i+1; j<nums.length; ++j) {
-                for(int k = j+1; k<nums.length; ++k) {
-                    currentValue = (long)(nums[i] - nums[j]) * nums[k];
-                    if(currentValue > maxValue) 
-                        maxValue = currentValue;
-                }
-            }
+        long maxNum = 0;
+        long maxDiff = 0;
+        long ans = 0;
+        for(int num : nums) {
+            ans = Math.max(ans, num * maxDiff);
+            maxNum = Math.max(maxNum, num);
+            maxDiff = Math.max(maxDiff, maxNum - num);
         }
-        return (maxValue>0)?maxValue:0;
+        return ans;
     }
 }
