@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hiruthick371/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3639-zero-array-transformation-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3778-transform-array-by-parity](https://github.com/hiruthick371/Problem-Solving/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
