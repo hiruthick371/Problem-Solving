@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hiruthick371/Problem-Solving/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3639-zero-array-transformation-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hiruthick371/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3778-transform-array-by-parity](https://github.com/hiruthick371/Problem-Solving/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hiruthick371/Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hiruthick371/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
