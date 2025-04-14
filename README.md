@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/hiruthick371/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
+| [3830-find-closest-person](https://github.com/hiruthick371/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
