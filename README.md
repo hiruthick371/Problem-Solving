@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiruthick371/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/hiruthick371/Problem-Solving/tree/master/0198-house-robber) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hiruthick371/Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hiruthick371/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
@@ -58,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/hiruthick371/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
 | [3830-find-closest-person](https://github.com/hiruthick371/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Number Theory
