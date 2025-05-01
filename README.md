@@ -92,4 +92,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiruthick371/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/hiruthick371/Problem-Solving/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
