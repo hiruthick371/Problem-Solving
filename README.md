@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hiruthick371/Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hiruthick371/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2048-build-array-from-permutation](https://github.com/hiruthick371/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/hiruthick371/Problem-Solving/tree/master/2714-left-and-right-sum-differences) |
@@ -43,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/hiruthick371/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/3447-clear-digits) |
 ## Hash Table
