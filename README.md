@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiruthick371/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/hiruthick371/Problem-Solving/tree/master/0198-house-robber) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hiruthick371/Problem-Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1293-three-consecutive-odds](https://github.com/hiruthick371/Problem-Solving/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hiruthick371/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/hiruthick371/Problem-Solving/tree/master/2048-build-array-from-permutation) |
