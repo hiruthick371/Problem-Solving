@@ -108,4 +108,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0595-big-countries](https://github.com/hiruthick371/Problem-Solving/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/hiruthick371/Problem-Solving/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/hiruthick371/Problem-Solving/tree/master/0619-biggest-single-number) |
+| [1258-article-views-i](https://github.com/hiruthick371/Problem-Solving/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
