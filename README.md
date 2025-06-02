@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2714-left-and-right-sum-differences](https://github.com/hiruthick371/Problem-Solving/tree/master/2714-left-and-right-sum-differences) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hiruthick371/Problem-Solving/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/hiruthick371/Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3639-zero-array-transformation-i](https://github.com/hiruthick371/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hiruthick371/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3778-transform-array-by-parity](https://github.com/hiruthick371/Problem-Solving/tree/master/3778-transform-array-by-parity) |
@@ -37,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hiruthick371/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3194-find-words-containing-character](https://github.com/hiruthick371/Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/hiruthick371/Problem-Solving/tree/master/3447-clear-digits) |
 ## Stack
 |  |
