@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hiruthick371/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/hiruthick371/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hiruthick371/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/hiruthick371/Problem-Solving/tree/master/2714-left-and-right-sum-differences) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hiruthick371/Problem-Solving/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -60,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiruthick371/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/hiruthick371/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
